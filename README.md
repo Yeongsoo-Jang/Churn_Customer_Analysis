@@ -11,3 +11,6 @@
     * [이탈 고객 예측]
     * [고객 군집]
     * [장바구니 분석]
+
+[대시보드 Tableau Public Link]
+https://public.tableau.com/views/ChurncustomerMarketBasketAnalysis/sheet4?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
