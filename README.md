@@ -1,20 +1,29 @@
 # Churn_Customer_Analysis
- e-commerce fashion flatform CRM
+ e-commerce fashion platform
 
 ### Table of Contents in this notebook 
 
-* [Analysis. 이탈 고객을 잡으면 기업에 얼마나 이익을 가져올까]
+* [Analysis. 방문 고객의 클릭 수(행동 데이터)가 떨어지지 않게 할 수 없을까?]
     * [데이터 전처리]
     * [이탈 고객 정의]
+    * [Cohort]
+    * [RFM Segment]
     * [이탈 고객이 매출에 미치는 영향]
-    * [이탈 관련 핵심 feature 선정]
+    * [회귀분석]
+    * [고객 행동 분석]
     * [이탈 고객 예측]
     * [고객 군집]
     * [장바구니 분석]
 
-# 데이터 분석 포트폴리오
+## 데이터 출처:
+* Kaggle
+https://www.kaggle.com/datasets/bytadit/transactional-ecommerce?select=transactions.csv
 
 ## 프로젝트: 인도네시아 이커머스 플랫폼 고객 이탈 예측 및 관리
+
+### 핵심 그래프
+* 이탈 고객 vs 활성 고객 행동 데이터: 모든 행동 데이터에서 이탈 고객이 활성 고객보다 수치가 낮음을 확인
+<img src = "https://i.imgur.com/nPTz1td.png">
 
 ### 1. 문제 정의
 - **문제점**: 활성 사용자 이탈 대응 방안 부재
