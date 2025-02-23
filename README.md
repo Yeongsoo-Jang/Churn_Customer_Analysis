@@ -76,6 +76,9 @@ https://www.kaggle.com/datasets/bytadit/transactional-ecommerce?select=transacti
 #### 비즈니스 임팩트
 - 활성 고객 증가 시 매출 약 9,460만 루피아(한화 약 840만 원) 상승 예상.
 - 초개인화 마케팅으로 고객 만족도 및 재구매율 향상.
+- 반품율, 잔존율을 향상하기 위한 새로운 사업 제안: 가상 피팅룸
+<image src = "https://i.imgur.com/3GlSZMK.png">
+
 
 ---
 
